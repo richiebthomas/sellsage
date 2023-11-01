@@ -1,4 +1,4 @@
-# Inventory Management System-sellsage  
+# Inventory Management System-sellsage#
 <link>https://github.com/richiebthomas/sellsage/blob/main/IMS-Sellsage.pdf </link>
 This is an app developed in Java as the frontend and MySQL as the backend.
 App was developed to be submitted as the SEM-3 mini-project. 
